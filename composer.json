@@ -1,0 +1,15 @@
+{
+    "name": "jonasfeige/vimeovalidate",
+    "description": "Kirby Vimeo Plugin",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
